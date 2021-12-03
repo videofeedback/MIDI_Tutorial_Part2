@@ -12,6 +12,8 @@ MIDI Blueprint for Camera Control
 
 ## 6) Place the Blueprint "MIDI_CONNECT_V2" Inside the project.
 
+[![](https://github.com/videofeedback/MIDI_Tutorial_Part2/blob/main/images/Map_Preview.png)]
+
 ### 7) Change the following settings in the red box
 
 [![](https://github.com/videofeedback/MIDI_Tutorial_Part2/blob/main/images/midi_connectV2_Settings.png)]
