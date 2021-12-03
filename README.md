@@ -14,7 +14,7 @@ Note: If you want to collaborate with changes, please fork this repo and let us 
 ## Instructions
 ### 1) Create an Unreal Engine 4.27.1 "Virtual Production" project from templates.
 ### 2) Activate the MIDI plugin, and close Unreal Engine
-### 3) Download the ZIP file of this Blueprint [MIDI_CONNECT.ZIP](https://github.com/videofeedback/MIDI_Tutorial_Part2/blob/main/files/MIDI_Connect_V2.zip)
+### 3) Download the ZIP file of this Blueprint [MIDI_Connect_V2.ZIP](https://github.com/videofeedback/MIDI_Tutorial_Part2/blob/main/files/MIDI_Connect_V2.zip)
 ### 4) Unzip the content of this file into the "Content" folder of your project.
 ### 5) Re-Start the project
 
