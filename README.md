@@ -75,3 +75,4 @@ I appreciate your contribution.
 
 *The VideoFeedback NFT project is attached to multiple projects. It doesn't represents a monetary value, but can be traded in the open market. Do not assume that these NFTs can be traded at any price. This is still a project and there is no economic promisses other that the NFT community is willing to trade.
 
+Ramiro Montes De Oca (VideoFeedback) https://youtube.com/ramiroslab/
