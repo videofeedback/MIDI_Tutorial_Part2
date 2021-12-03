@@ -3,6 +3,10 @@ MIDI Blueprint for Camera Control
 
 ## This is the repository for the Midi Tutorial (Part 2) Blueprint.
 
+
+[![Ultimate MIDI tutorial with Unreal Engine Part 2](https://github.com/videofeedback/RamirosLab/blob/main/images/ULTIMATE%20MIDI%20TUTORIAL%20WITH%20UNREAL%20ENGINE%20PART%202%2001.png)](https://youtu.be/PNQPOruPuM8?sub_confirmation=1)
+
+
 V2 FIXES: 
 - Added "Default Values" seaparated from the active Float Values so both settings never mix each other.
 - Added Focus and Focal Length Default Values
