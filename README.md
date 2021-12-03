@@ -24,6 +24,8 @@ Arturia MiniLab MkII 25 Slim-Key Controller: https://www.amazon.com/Arturia-Mini
 
 AKAI Professional MPK Mini MK3: https://www.amazon.com/Professional-Keyboard-Controller-Production-Software/dp/B0886ZPWC8/
 
+The device has to be Re-Mapped to change the functionality from Default to Alternative or equivalent to each manufacturer. (Watch the tutorial for instructions).
+
 
 ## Instructions
 ### 1) Create an Unreal Engine 4.27.1 "Virtual Production" project from templates.
