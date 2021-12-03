@@ -32,5 +32,8 @@ Note: If you want to collaborate with changes, please fork this repo and let us 
 
 
 
+[![](https://github.com/videofeedback/MIDI_Tutorial_Part2/blob/main/images/wanted_v1.png)]
+
+
 
 
