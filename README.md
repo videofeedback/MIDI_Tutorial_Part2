@@ -26,6 +26,8 @@ AKAI Professional MPK Mini MK3: https://www.amazon.com/Professional-Keyboard-Con
 
 The device has to be Re-Mapped to change the functionality from Default to Alternative or equivalent to each manufacturer. (Watch the tutorial for instructions).
 
+Note of the author: I am aware that this is a big limitation, but this little unknown MIDI functionality is one of the most important to be exploded by Virtual Production. Alternatives like OSC controllers are an option that will be explored later, but the physical option that these digital encoders offers is without a doubt a remarkable feature. Look for "360-Degree" knobs or "Digital-Encoders". The list above is just an example of "Under $120" alternatives.
+
 
 ## Instructions
 ### 1) Create an Unreal Engine 4.27.1 "Virtual Production" project from templates.
