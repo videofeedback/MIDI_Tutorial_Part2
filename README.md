@@ -46,7 +46,7 @@ This blueprint uses alternative Control Change settings using Relative #1 (For A
 
 ## 6) Place the Blueprint "MIDI_CONNECT_V2" Inside the project.
 
-[![](https://github.com/videofeedback/MIDI_Tutorial_Part2/blob/main/images/Map_Preview.png)]
+[![](https://github.com/videofeedback/MIDI_Tutorial_Part2/blob/main/images/Arturia_BeatStep.png)]
 
 ### 7) Change the following settings in the red box
 
