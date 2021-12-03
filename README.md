@@ -32,6 +32,10 @@ The device has to be Re-Mapped to change the functionality from Default to Alter
 
 Note of the author: I am aware that this is a big limitation, but this little unknown MIDI functionality is one of the most important to be exploded by Virtual Production. Alternatives like OSC controllers are an option that will be explored later, but the physical option that these digital encoders offers is without a doubt a remarkable feature. Look for "360-Degree" knobs or "Digital-Encoders". The list above is just an example of "Under $120" alternatives.
 
+## Re-map MIDI controller
+This blueprint uses alternative Control Change settings using Relative #1 (For Arturia controllers, CC2 for Akai controllers), consult your manufacturer manual for different settings. This particual setting changes from 0x40 to 0x41 (for positive values) and from 0x40 to 0x3F (for negative values).
+
+[](https://raw.githubusercontent.com/videofeedback/MIDI_Tutorial_Part2/main/images/Arturia_BeatStep.png)
 
 ## Instructions
 ### 1) Create an Unreal Engine 4.27.1 "Virtual Production" project from templates.
