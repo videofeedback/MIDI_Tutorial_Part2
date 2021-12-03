@@ -10,6 +10,20 @@ V2 FIXES:
 
 Note: If you want to collaborate with changes, please fork this repo and let us know about the changes. Thanks.
 
+## Warning
+Only MIDI devices with 360-Degree digital encoders will be able to take advantage of this project. This blueprint uses exclusive function that takes advantage of infinite rotation knobs controllers. Here is a list of devices that will be able to work with this blueprint:
+
+
+Arturia BeatStep: https://www.amazon.com/Arturia-BeatStep-MIDI-Controller-Sequencer/dp/B00I88HPUO/
+
+BEHRINGER USB (XTOUCHMINI): https://www.amazon.com/BEHRINGER-USB-Controller-Black-XTOUCHMINI/dp/B012CSKTYY/
+
+Akai Professional MPD218: https://www.amazon.com/Akai-Professional-MPD218-Controller-Software/dp/B0116X17JW/
+
+Arturia MiniLab MkII 25 Slim-Key Controller: https://www.amazon.com/Arturia-MiniLab-MkII-Slim-Key-Controller/dp/B01MSNIVKE/
+
+AKAI Professional MPK Mini MK3: https://www.amazon.com/Professional-Keyboard-Controller-Production-Software/dp/B0886ZPWC8/
+
 
 ## Instructions
 ### 1) Create an Unreal Engine 4.27.1 "Virtual Production" project from templates.
