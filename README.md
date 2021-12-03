@@ -3,6 +3,14 @@ MIDI Blueprint for Camera Control
 
 ## This is the repository for the Midi Tutorial (Part 2) Blueprint.
 
+V2 FIXES: 
+- Added "Default Values" seaparated from the active Float Values so both settings never mix each other.
+- Added Focus and Focal Length Default Values
+- Added Channel 2 Sun Macros (Latitude, Azimuth, Intensity)
+
+Note: If you want to collaborate with changes, please fork this repo and let us know about the changes. Thanks.
+
+
 ## Instructions
 ### 1) Create an Unreal Engine 4.27.1 "Virtual Production" project from templates.
 ### 2) Activate the MIDI plugin, and close Unreal Engine
