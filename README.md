@@ -35,7 +35,7 @@ Note of the author: I am aware that this is a big limitation, but this little un
 ## Re-map MIDI controller
 This blueprint uses alternative Control Change settings using Relative #1 (For Arturia controllers, CC2 for Akai controllers), consult your manufacturer manual for different settings. This particual setting changes from 0x40 to 0x41 (for positive values) and from 0x40 to 0x3F (for negative values).
 
-[!](https://raw.githubusercontent.com/videofeedback/MIDI_Tutorial_Part2/main/images/Arturia_BeatStep.png)
+[!Arturia BeatStep](https://github.com/videofeedback/MIDI_Tutorial_Part2/blob/main/images/Arturia_BeatStep.png)
 
 ## Instructions
 ### 1) Create an Unreal Engine 4.27.1 "Virtual Production" project from templates.
